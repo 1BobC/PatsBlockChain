@@ -6,3 +6,4 @@ PatsBlockChain Tutorial Solidity and Blockchain
 "To 1:19:32 Pow discussion"
 "1:25:30 start Scalability"
 "Recap at 1:28:18 and now for some CODE 1:29.36"
+"Watch video from 1:29.36 until ready to run something! And continue watching from 1:49:23"
