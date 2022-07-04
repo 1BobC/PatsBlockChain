@@ -9,3 +9,4 @@ PatsBlockChain Tutorial Solidity and Blockchain
 "Watch video from 1:29.36 until ready to run something! And continue watching from 1:49:23"
 "At 1:56:59 and will continue for explanations BUT will create NEW project using Nethereum Documentation which shows how to do it in VSCode!!! See NethereumCodeGenDemo"
 "Deploy Smart Conract 1:29:36 to 1:56:59 Watch again while comparing with nethereum-codegen-vscode-demo until ready to finish coding my own Simple Storage - Yes sir!"
+"vsc direct to git update - remove message 'also first go at vscode direct to git update!'"
