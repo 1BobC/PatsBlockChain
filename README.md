@@ -10,3 +10,4 @@ PatsBlockChain Tutorial Solidity and Blockchain
 "At 1:56:59 and will continue for explanations BUT will create NEW project using Nethereum Documentation which shows how to do it in VSCode!!! See NethereumCodeGenDemo"
 "Deploy Smart Conract 1:29:36 to 1:56:59 Watch again while comparing with nethereum-codegen-vscode-demo until ready to finish coding my own Simple Storage - Yes sir!"
 "vsc direct to git update - remove message 'also first go at vscode direct to git update!'"
+"See simpleStorage for 2:02:00store person and favourite number,retreive the favourite number of a person - works ok in Remix"
